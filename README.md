@@ -1,9 +1,6 @@
 # VolatilityIndexLevy
 A model-free volatility index for a class of Levy models
 
-# wh-Hes-python-pycharm
-Purely pycharm-based (due to the import structures) repo for W-H Heston calculation
-
 //--------------------------------------------------------------------------------------------------------------------
 
 The repository implements a part of "Pyrgos" - a solution for market calibration, risk management and option pricing.
